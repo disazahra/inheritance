@@ -7,7 +7,7 @@ package latihan6;
 
 /**
  *
- * @author DISA
+ * @author Fahru
  */
 public class praktikum1 {
     static int tambah(int a,int b)
